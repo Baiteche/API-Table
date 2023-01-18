@@ -1,0 +1,7 @@
+thead{
+    height: 10%;
+    font-size: clamp(0.75rem, 0.6623rem + 0.4385vw, 1.32rem);}
+
+tbody{
+    height: 90%;
+    font-size: clamp(0.75rem, 0.6623rem + 0.4385vw, 1.32rem);}
